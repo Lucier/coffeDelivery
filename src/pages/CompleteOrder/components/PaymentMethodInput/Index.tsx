@@ -1,5 +1,4 @@
 import { PaymentMethodContainer, ContentContainer } from './styles';
-import { CreditCard } from 'phosphor-react';
 import { forwardRef, InputHTMLAttributes, ReactNode } from 'react';
 
 type PaymentMethodInputProps = InputHTMLAttributes<HTMLInputElement> & {
